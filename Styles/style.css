@@ -1,7 +1,6 @@
 @font-face {
-  font-family: "B Yekan";
-  src: local("☺"), local("B Yekan"),
-  url("http://awebfont.ir/services/fonts/683a5dddcff7f1cbb08d964cc275cb50ce7840291901931.woff");
+  font-family: B Yekan;
+  src: url("../Fonts/B-Yekan.woff");
   font-weight: normal;
   font-style: normal;
 }
