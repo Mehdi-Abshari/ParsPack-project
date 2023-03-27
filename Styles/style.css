@@ -39,6 +39,7 @@ body {
 }
 .header-right ul li:hover {
   color: #288ed9;
+  cursor: pointer;
 }
 .header-left {
   display: flex;
@@ -46,11 +47,13 @@ body {
 .header-left p {
   padding: 5px 20px;
   color: #288ed9;
+  cursor: pointer;
 }
 .header-left .header-login {
   background-color: #288ed9;
   color: #fff;
   border-radius: 30px;
+  cursor: pointer;
 }
 
 /* header-bottom */
